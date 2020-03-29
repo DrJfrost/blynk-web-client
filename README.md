@@ -1,26 +1,27 @@
 #
 
-### :warning:
+### Trabajo Final Redes 3
 
-### WORK IN PROGRESS
+Julian Albeiro Rojas Avellaneda 20161020038  
+Santiago Gómez Almeyda 20161020503  
 
-**This is in early alpha stages, don't expect it to work reliably across versions yet. I'm looking for beta testers, so please post an issue if you find any problems or want to help out with this project in some way.**
+
+**Este proyecto usa la libreria de blynk creada por [avin](https://github.com/avin), para visualizar la informazion que es enviada a el servidor blynk, esta librería hace uso de blynk API que es abierta a todos sus usuarios y no tiene ningun tipo de restriccion.**
+
+**Descripcion traducida por @DrJfrost**
 
 ---
 
-# Blynk-Web-Client [![Build Status](https://travis-ci.org/avin/blynk-web-client.svg?branch=master)](https://travis-ci.org/avin/blynk-web-client)
 
-> SPA Web Client for [Blynk](https://www.blynk.cc/)
+## Cliente Online
 
-## Online client
+[ >> [Inicia Aquí!](http://blynk-client.surge.sh) << ]
 
-[ >> [Get started!](http://blynk-client.surge.sh) << ]
+## Preparación e instalacion
 
-## Build and install
+Es necesario instalar [Node.js](https://nodejs.org/en/) y [Yarn](https://yarnpkg.com/en/) para crear la aplicacion del cliente.
 
-You have to install [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/en/) to build client-app.
-
-Build procedure:
+Procedimiento de la Preparacion:
 
 ```
 git clone --depth=1 https://github.com/avin/blynk-web-client.git
@@ -29,9 +30,9 @@ yarn
 yarn run build
 ```
 
-Then copy content of `build` folder to your web-server.``
+Luego copie el contenido de la carpeta `build` a su servidor web.``
 
-### Preview
+### Vista Preliminar
 
 ![demo](./assets/preview.png)
 

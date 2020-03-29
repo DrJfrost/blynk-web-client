@@ -1,12 +1,12 @@
 #
 
-### Trabajo Final Redes 3
+### Trabajo Final Redes de comunicaciones I
 
 Julian Albeiro Rojas Avellaneda 20161020038  
 Santiago Gómez Almeyda 20161020503  
 
 
-**Este proyecto usa la libreria de blynk creada por [avin](https://github.com/avin), para visualizar la informazion que es enviada a el servidor blynk, esta librería hace uso de blynk API que es abierta a todos sus usuarios y no tiene ningun tipo de restriccion.**
+**Este proyecto usa la libreria de blynk creada por [avin](https://github.com/avin), para visualizar la información que es enviada a el servidor blynk, esta librería hace uso de blynk API que es abierta a todos sus usuarios y no tiene ningun tipo de restriccion.**
 
 **Descripcion traducida por @DrJfrost**
 
